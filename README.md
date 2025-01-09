@@ -101,14 +101,14 @@ We thank our mentors and peers for their support and guidance throughout this pr
 ---
 
 ## Visualizations
-### t-SNE Dimensionality Reduction
-![t-SNE Visualization](images/tsne_visualization.png)
+### t-SNE with K Means
+![t-SNE and K-Means Clustering](images/T-SNE_K_Means_Clustering.png)
 
-### K-Means Clustering
-![K-Means Clusters](images/kmeans_clusters.png)
+### Model Cross Validation and Test Accuracy
+![Cross Validation and Test Accuracy](images/Model_Cross_Validation_and%20_Test_Accuracy.png)
 
-### Classifier Comparison
-![Classifier Predictions](images/classifier_comparison.png)
+### Comparison of Model Result
+![Comparison of Models](images/Comparison_of_Models.png)
 
 ---
 
